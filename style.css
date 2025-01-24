@@ -55,6 +55,14 @@ margin: 40px;
 #placeholder1{
 
 margin: 60px;
+color: #e5e7eb;
+background-color: rgb(156, 148, 148);
+width: 500px;
+height: 200px;
+display: flex;
+justify-content: center;
+align-items: center;
+font-weight:900 ;
 
 }
 
