@@ -1,70 +1,76 @@
 body{
-  background-color: #1f2937;
 
-}
-
-
-.first-part{
 background-color: #1f2937;
-height: 600px;
 font-family: roboto;
-flex: 1;
 
 }
 
-a{
-color: #9da5b4;
-text-decoration: none;
-
-}
-
-ul{
-
-display: flex;
-gap: 15px;
-padding: 15px;
-
-
-}
-
-
-
-
-
-li{
-  list-style-type: none;
- 
-}
-#hero{
-
-font-size: 24px;
-color: azure;
-padding: 15px;
-}
-
-#hero2{
-  font-size: 48px;
-  font-weight: bold;
-  color: azure;
-}
-#hero2-downtext{
-
-font-size: 18px;
-color: #E5E7EB;
-}
-.upperpart{
+.hero{
 
 display: flex;
 justify-content: space-around;
 
 }
+ul{
 
-.hero2cont{
-margin: 150px;
-margin-top: 50px;
 display: flex;
-flex-direction: column;
-gap: 5px;
+list-style-type: none;
+gap: 15px;
+padding: 12px;
+
+}
+#headerlogo{
+
+color: #f9faf8;
+font-size: 24px;
+padding: 12px;
+font-weight: 900;
+
+
+}
+a{
+color: #f9faf8;
+text-decoration: none;
+font-size: 18px;
+}
+
+.part1{
+
+
+
+}
+
+.midpartof1{
+
+margin: 40px;
+
+
+}
+
+.dividemidpart1{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+#placeholder1{
+
+margin: 60px;
+
+}
+
+#heromaintext {
+
+ font-size: 48px;
+ color: #f9faf8;
+ font-weight: 900;
+
+
+}
+
+.headerlinktext{
+
+font-size: 18px;
+color: #e5e7eb;
 
 
 }
@@ -72,27 +78,10 @@ gap: 5px;
 button{
 
 background-color: #3882f6;
-padding:10px 40px;
-border-radius: 10px;
-font-size: 20px;
-font-weight: bold;
-color: aliceblue;
+border-radius: 8px;
+color: #e5e7eb;
+padding: 10px 30px;
+font-weight: 900;
+
+
 }
-
-.divide2{
-
-display: flex;
-justify-content: space-evenly;
-
-
-} 
-
-
-.imgblock1{
-
-
-
-
-  
-}
-
