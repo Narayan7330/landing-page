@@ -1,6 +1,4 @@
 
-Here's a sample content for a README file for The Odin Project Landing Page project:
-
 Landing Page Project
 This is a simple, responsive landing page created as part of The Odin Project curriculum. The goal of this project is to build a landing page using HTML and CSS while applying the principles of Flexbox for layout.
 
