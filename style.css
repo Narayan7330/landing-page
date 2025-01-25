@@ -90,6 +90,7 @@ border-radius: 8px;
 color: #e5e7eb;
 padding: 10px 30px;
 font-weight: 900;
+border-color: #f8fff0;
 
 
 }
@@ -177,3 +178,53 @@ padding-bottom: 100px;
 
 } 
 /* done with third part of the webpage */
+
+.box{
+
+height: 350px;
+background-color: #e5e7eb;
+margin: 0;
+display: flex;
+justify-content: center;
+align-items: center;
+
+
+}
+
+.maintxt{
+
+  margin: 0;
+  font-size: 28px;
+  color: #e5e7eb;
+  font-weight: 900;
+}
+
+.textnbutton {
+
+height: 150px;
+background-color: #3882f6;
+display: flex;
+width: 800px;
+border-radius: 12px;
+justify-content: center;
+align-items: center;
+
+
+} 
+.inetxt{
+
+  display: flex;
+  flex-direction: column;
+  padding-right: 40px;
+  font-size: 18px;
+color: #e5e7eb;
+}
+
+#copyright{
+height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #e5e7eb;
+  padding-top: 10px;
+}
