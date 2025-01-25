@@ -117,16 +117,31 @@ font-family: roboto;
 display: flex;
 flex-direction: row;
 justify-content: center;
+margin-top:100px ;
+gap: 120px;
 
 }
-.card{
-display: flex;
-  padding: 100px;
-  width: 150px;
-  border: 1px solid #207ee2;
-  box-shadow: 2px 4px 16px rgba(0,0,0,.06);
-  border-radius: 4px;
+
+.info{
+
+max-width: 150px;
+border: 10px blue;
+
+}
+
+.illustration{
+
+height: 150px;
+width: 150px;
+border: 5px solid #3882f6;
+border-radius: 12px;
 }
 
 
+.text{
+  margin-top: 5px;
+  margin-left:10px;
+  font-size: 18px;
+color: #8e929b;
 
+}
